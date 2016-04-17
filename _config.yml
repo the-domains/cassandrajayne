@@ -1,0 +1,28 @@
+name: cassandrajayne
+favicon: null
+layout_spectrum: 0.367665390484035
+typography_spectrum: 0.1367921126075089
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24067891854792833
+  lightness: 0.44178366637788713
+  saturation: 0.22368805902078748
+  rhythmicContrast: 0.046504303347319365
+purpose: []
